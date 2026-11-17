@@ -1,1 +1,16 @@
-https://ai.studio/apps/3716598a-439d-48df-90cf-a62238fedf06
+# Highland Adventure — Grade 3 Educational Game
+
+An interactive educational web game about **Highlands & Plateaus** designed for **Grade 3 Elementary students**, featuring cute animations (Kiko the Mountain Goat), 4 interactive levels, student name & class registration, and downloadable/printable certificates at the end of every level.
+
+## Features
+- **Student Identity Form**: Name and Class / Grade input (with quick-select buttons `3A`–`3D`) printed directly on every certificate.
+- **Level 1 — Discover the Highlands**: Interactive altitude slider (`0–1,200 m asl`) with live temperature & climate changes plus 4 visual challenges.
+- **Level 2 — Tea Garden & Harvest Sort**: Interactive sorting game distinguishing highland crops from coastal products.
+- **Level 3 — Highland Jobs & Travel Map**: Job-matching board and interactive Indonesian highland map pins.
+- **Level 4 — Mountain Nature Guardian**: Reforestation, stream cleanup, terracing, and conservation missions.
+- **End-of-Level Certificates**: Official Certificate of Achievement after every level with PNG download and print support.
+
+## Run Locally
+```bash
+npm install
+npm run dev
